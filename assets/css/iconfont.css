@@ -41,10 +41,6 @@
   content: "\e88c";
 }
 
-.icon-github:before {
-  content: "\e732";
-}
-
 .icon-coding:before { content: "\e62b"; }
 
 .icon-angleup:before { content: "\e664"; }
